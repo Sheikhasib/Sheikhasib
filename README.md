@@ -123,16 +123,6 @@ Currently, I'm expanding my expertise in **Docker**, **AWS**, **Nginx**, **Syste
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheikhasib&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
